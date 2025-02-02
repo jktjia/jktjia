@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm Jamie
 
-- 🌱 I'm currently studying Computer Science and Biology at Northeastern University.
+- 🌱 I'm currently studying Computer Science and Biology at Northeastern University
 - 😄 Pronouns: they/them
