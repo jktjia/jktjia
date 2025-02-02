@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Jamie
+
+- 🌱 I'm currently studying Computer Science and Biology at Northeastern University.
+- 😄 Pronouns: they/them
