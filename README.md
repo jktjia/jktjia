@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jamie
 
 <!--
 **jktjia/jktjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Jamie
-
-- 🌱 I'm currently studying Computer Science and Biology at Northeastern University
-- 😄 Pronouns: they/them
+Majoring in Computer Science and Biology at Northeastern University (Class of 2026)
